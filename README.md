@@ -5,6 +5,7 @@
 ## About me
 
 I'm Snigdha (@Snigdha02)! I am currently pursuing B.Tech in Computer Science Engineering at Indian Institute of Technology, Mandi.
+<br>
 Passionate about 🎵 and addicted to ☕
 
 ## Things I am passionate about
